@@ -2,6 +2,9 @@
 
 This extension aim for helping [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) users to use [segment anything](https://github.com/facebookresearch/segment-anything/) to do stable diffusion inpainting.
 
+b站教程
+https://www.bilibili.com/video/BV1Sm4y1B7Pg/?spm_id_from=333.1007.tianma.6-1-19.click&vd_source=dad55eb95e2e376b83199a995cd51fac
+
 ## News
 
 - `2023/04/12`: [Feature] Mask expansion enabled. Thanks [@jordan-barrett-jm](https://github.com/jordan-barrett-jm) for your great contribution!
